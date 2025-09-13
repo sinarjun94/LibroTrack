@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 LibroTrack
 
 A **full-stack library management system** for managing books, users, and borrow/return records efficiently.
@@ -42,3 +43,7 @@ A **full-stack library management system** for managing books, users, and borrow
 ```bash
 git clone https://github.com/Anurag888000/LibroTrack.git
 cd LibroTrack
+=======
+# LibroTrack
+Library Management System
+>>>>>>> 4dc4aa1f6b02b299ecc46f5aadcceb41e28262fb
